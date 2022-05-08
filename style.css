@@ -1,0 +1,51 @@
+.diagonal-split-background{
+    background-color: #E0E2DB;
+    background-image: -webkit-linear-gradient(30deg, #E0E2DB 50%, #D2D4C8 50%);
+  }
+
+.parent-div{
+    display: flex;
+    width: 100%;
+}
+
+h1 {
+    font-family: Bitter;
+}
+
+h2{
+    font-family: Bitter;
+}
+
+h3{
+   font-family:  Quicksand;
+   font-weight: bold;
+}
+
+li{
+    font-family: Quicksand;
+}
+
+.dates{
+    font-family: Bitter;
+}
+
+.skills{
+    font-family: Quicksand;
+}
+a{
+    color: #5F7470;
+   
+}
+a:hover {
+    font-weight: bold;
+}
+
+.right-side{
+padding: 70px;
+}
+
+.left-side{
+    padding-left:70px ;
+    width: 60%;
+}
+
